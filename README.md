@@ -1,9 +1,22 @@
 # Smart Assessment App 📚🤖
 
-[![GitHub license](https://img.shields.io/github/license/YOUR-USERNAME/smart-assessment-app)](https://github.com/YOUR-USERNAME/smart-assessment-app/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/YOUR-USERNAME/smart-assessment-app)](https://github.com/YOUR-USERNAME/smart-assessment-app/stargazers)
+[![GitHub license](https://img.shields.io/github/license/DrishtiTripathi2230/smart-assessment-app)](https://github.com/DrishtiTripathi2230/smart-assessment-app/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/YOUR-USERNAME/smart-assessment-app)](https://github.com/DrishtiTripathi2230/smart-assessment-app/stargazers)
 
-![App Screenshot](./public/screenshot.png) <!-- Add your screenshot -->
+## App Screenshots 📸
+![image](https://github.com/user-attachments/assets/3a51b002-5e3c-45d7-b772-156bdbd83fa4)
+
+*Homepage with study materials, DOUBTBOT, and quiz access.*  
+
+### 2. DOUBTBOT AI Assistant  
+![image](https://github.com/user-attachments/assets/d06540c7-13bb-4c44-b4ab-d9f5ca15c447)
+ 
+*Ask academic questions and get instant explanations.*  
+
+### 3. Quiz Results  
+![image](https://github.com/user-attachments/assets/54705449-abf0-4af8-a42b-637d5c3d33d9)
+
+*Track scores and review answers after quizzes.*  
 
 An interactive learning platform featuring study materials, an AI assistant, quizzes, and progress tracking.
 
@@ -25,7 +38,7 @@ An interactive learning platform featuring study materials, an AI assistant, qui
 ## Installation ⚙️
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/smart-assessment-app.git
+git clone https://github.com/DrishtiTripathi2230/smart-assessment-app.git
 cd smart-assessment-app
 npm install
 npm start

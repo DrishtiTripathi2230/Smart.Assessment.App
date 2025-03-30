@@ -85,21 +85,9 @@ Save progress
 Mobile app version
 
 Contributors 👥
-Your Name - @YourGitHub
+Name - @DrishtiTripathi2230
+       @diyasharma22
+       ISHANGI CHOUBEY
 
-License 📜
-MIT License
 
-3. **Customize these parts**:
-   - Replace `YOUR-USERNAME` with your GitHub username everywhere
-   - Add your name under Contributors
-   - For the screenshot:
-     1. Take a screenshot of your app
-     2. Save it as `screenshot.png` in your `/public` folder
-     3. The markdown will automatically display it
 
-4. **Save and commit**:
-   ```bash
-   git add README.md
-   git commit -m "Added professional README"
-   git push

@@ -87,7 +87,8 @@ Mobile app version
 Contributors 👥
 Name - @DrishtiTripathi2230
        @diyasharma22
-       ISHANGI CHOUBEY
+       @IshangiChoubey
+
 
 
 

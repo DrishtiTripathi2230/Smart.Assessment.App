@@ -1,7 +1,7 @@
 # Smart Assessment App 📚🤖
 
-[![GitHub license](https://img.shields.io/github/license/DrishtiTripathi2230/smart-assessment-app)](https://github.com/DrishtiTripathi2230/smart-assessment-app/blob/main/LICENSE)
-[![GitHub stars](https://img.shields.io/github/stars/YOUR-USERNAME/smart-assessment-app)](https://github.com/DrishtiTripathi2230/smart-assessment-app/stargazers)
+[![GitHub license](https://img.shields.io/github/license/DrishtiTripathi2230/smart.assessment.app)](https://github.com/DrishtiTripathi2230/smart.assessment.app/blob/main/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/DrishtiTripathi2230/smart.assessment.app)](https://github.com/DrishtiTripathi2230/smart.assessment.app/stargazers)
 
 ## App Screenshots 📸
 ![image](https://github.com/user-attachments/assets/3a51b002-5e3c-45d7-b772-156bdbd83fa4)
